@@ -1,0 +1,85 @@
+-----------------------------------------------------
+Time: 2019-10-28 18:52:44
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 18:52:56
+Query type: POST
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 18:53:20
+Query type: POST
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 18:53:25
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries/17
+-----------------------------------------------------
+Time: 2019-10-28 18:53:27
+Query type: PUT
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 18:54:11
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 18:54:16
+Query type: DELETE
+IP-address: ::1
+URL: https://localhost:44327/api/queries/16
+-----------------------------------------------------
+Time: 2019-10-28 18:56:36
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 20:32:01
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 20:32:58
+Query type: POST
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 20:33:16
+Query type: POST
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 20:33:19
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries/19
+-----------------------------------------------------
+Time: 2019-10-28 20:33:23
+Query type: PUT
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 20:33:31
+Query type: DELETE
+IP-address: ::1
+URL: https://localhost:44327/api/queries/19
+-----------------------------------------------------
+Time: 2019-10-28 20:34:32
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 20:52:47
+Query type: GET
+IP-address: ::1
+URL: https://localhost:44327/api/queries
+-----------------------------------------------------
+Time: 2019-10-28 21:04:54
+Query type: DELETE
+IP-address: ::1
+URL: https://localhost:44327/api/queries/12
